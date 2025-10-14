@@ -62,7 +62,6 @@
 ### 📫 Cómo contactarme
 <p>
   📧 <a href="oscar.reyes@est.ulsa.edu.ni">Correo</a><br>
-  🔗 <a href="https://www.linkedin.com/in/tu-usuario/">LinkedIn</a><br>
   🐙 <a href="https://github.com/CharFranR">GitHub</a>
 </p>
 
