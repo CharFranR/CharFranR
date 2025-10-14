@@ -1,11 +1,10 @@
 <!-- Perfil de GitHub de Oscar Reyes -->
 
-<h1 align="center">👋 ¡Hola Mundo!</h1>
+<h1 align="center">👋 ¡Hola! Soy Oscar Reyes</h1>
 
 <p align="center">
   🎓 Estudiante de <b>Ingeniería en Cibernética Electrónica</b><br>
-  💻 Apasionado por la programación, la automatización y el desarrollo de sistemas embebidos.<br>
-  ⚡ Enfocado en conectar el <b>hardware</b> con el <b>software</b>.
+  💻 Programador Junior Low Cost.<br>
 </p>
 
 ---
@@ -19,7 +18,10 @@
 
 #### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend">
+  <img src="https://skillicons.dev/icons?i=nodejs,django" alt="Backend">
+</p>
+<p>
+  <b>Django REST Framework (DRF)</b> para desarrollo de APIs robustas y escalables
 </p>
 
 #### 🔌 Microcontroladores
@@ -36,7 +38,7 @@
 ---
 
 ### 🚀 En qué estoy trabajando
-- Mejorando mis habilidades en **desarrollo backend** con Python y TypeScript  
+- Mejorando mis habilidades en **desarrollo backend** con Python, Django y DRF  
 - Explorando nuevas arquitecturas para **sistemas embebidos (IoT)**  
 - Integrando microcontroladores con servicios web  
 
@@ -51,17 +53,17 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CharFranR&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharFranR&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📫 Cómo contactarme
 <p>
-  📧 <a href="mailto:tu-correo@ejemplo.com">tu-correo@ejemplo.com</a><br>
+  📧 <a href="oscar.reyes@est.ulsa.edu.ni">Correo</a><br>
   🔗 <a href="https://www.linkedin.com/in/tu-usuario/">LinkedIn</a><br>
-  🐙 <a href="https://github.com/tu-usuario">GitHub</a>
+  🐙 <a href="https://github.com/CharFranR">GitHub</a>
 </p>
 
 ---
