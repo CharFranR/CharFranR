@@ -18,7 +18,7 @@
 
 #### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,django" alt="Backend">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,django,postgresql" alt="Backend">
 </p>
 <p>
   <b>Django REST Framework (DRF)</b> para desarrollo de APIs robustas y escalables
