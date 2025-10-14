@@ -67,4 +67,4 @@
 
 ---
 
-⭐️ *Gracias por visitar mi perfil. ¡Estoy construyendo proyectos que conectan el mundo digital con el físico!* ⚙️
+⭐️ *Gracias por visitar mi perfil*
