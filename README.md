@@ -36,8 +36,8 @@
 </p>
 
 ---
-### Experiencias extra académicas
-  <img src="https://www.nicaraguainnova.gob.ni/wp-content/uploads/2025/04/logo-rally-2025.png" alt="Rally Nacional de Innovación 2025">
+### 💡 Experiencias extra académicas
+
   <img src="https://www.rallydeinnovacion.org/wp-content/uploads/2022/07/logo_rally_header.png" alt="Rally Latinoamericano de Innovación 2025">
   <img src="https://hackathonicaragua.com.ni/media/home/Mesa_de_trabajo_1.png" alt="Hackaton Nicaragua 2025">
 ---
