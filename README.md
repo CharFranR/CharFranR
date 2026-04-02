@@ -1,75 +1,26 @@
-<!-- Perfil de GitHub de Oscar Reyes -->
+# ¡Hola! Soy Oscar
 
-<h1 align="center">👋 ¡Hola! Soy Oscar Reyes</h1>
+Estudiante de Ingeniería en Cibernética Electrónica. Construyo backend, me estoy metiendo
+en el mundo de las librerías y el bajo nivel, con algo de Rust en el camino.
 
-<p align="center">
-  🎓 Estudiante de <b>Ingeniería en Cibernética Electrónica</b><br>
-  💻 Programador Junior Low Cost.<br>
-</p>
+Mi día a día es Django y DRF para resolver problemas reales, y PLCs cuando el mundo físico
+me necesita. Lo que más me interesa ahora es integrar IA al flujo de desarrollo
+con orquestación integral de agentes.
 
----
+## Proyectos
 
-### 🛠️ Lenguajes y Tecnologías
+**[Biogestor](https://github.com/CharFranR/Biogestor)** — Plataforma de monitoreo de biodigestores
+para el CIDTEA. Django, PostgreSQL, Redis, MQTT, Docker.
 
-#### 💬 Lenguajes de Programación
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript" alt="Lenguajes">
-</p>
+**[Docker-Lens](https://github.com/CharFranR/Docker-Lens)** — Herramienta de gestión de bases de datos
+en contenedores Docker.
 
-#### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql" alt="Backend">
-</p>
-<p>
-  <b>Django REST Framework (DRF)</b> para desarrollo de APIs robustas y escalables
-</p>
+## Algunas cosas de las que estoy orgulloso
 
-#### 🔌 Microcontroladores
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
+- Hackatón Nicaragua 2025 + Rally Latinoamericano de Innovación 2025
+- PLC Siemens S7-1200 e instrumentación industrial
+- Desarrollo con IA estructurada: orquestación integral de agentes
 
-#### 🧰 Otras herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" alt="Herramientas">
-</p>
+## ¿Querés hablar?
 
----
-### 💡 Experiencias extra académicas
-
-  <img src="https://www.rallydeinnovacion.org/wp-content/uploads/2022/07/logo_rally_header.png" alt="Rally Latinoamericano de Innovación 2025">
-  <img src="https://hackathonicaragua.com.ni/media/home/Mesa_de_trabajo_1.png" alt="Hackaton Nicaragua 2025">
----
-
-### 🚀 En qué estoy trabajando
-- Mejorando mis habilidades en **desarrollo backend** con Python, Django y DRF  
-- Explorando nuevas arquitecturas para **sistemas embebidos (IoT)**  
-- Integrando microcontroladores con servicios web  
-
----
-
-### 🌱 Actualmente aprendiendo
-- Arquitectura de sistemas distribuidos  
-- Comunicación entre microcontroladores y APIs REST  
-- Integración entre hardware y software  
-
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CharFranR&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharFranR&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Cómo contactarme
-<p>
-  📧 <a href="oscar.reyes@est.ulsa.edu.ni">Correo</a><br>
-  🐙 <a href="https://github.com/CharFranR">GitHub</a>
-</p>
-
----
-
-⭐️ *Gracias por visitar mi perfil*
+📧 oscar.reyes@est.ulsa.edu.ni
