@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Cibernética Electrónica. Construyo backend, me es
 en el mundo de las librerías y el bajo nivel, con algo de Rust en el camino.
 
 Mi día a día es Django y DRF para resolver problemas reales, y PLCs cuando el mundo físico
-me necesita. Lo que más me interesa ahora es integrar IA al flujo de desarrollo
+me necesita. Recientemente interesado en integrar IA al flujo de desarrollo
 con orquestación integral de agentes.
 
 ## Proyectos
