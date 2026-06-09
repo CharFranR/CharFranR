@@ -21,6 +21,6 @@ en contenedores Docker.
 - PLC Siemens S7-1200 e instrumentación industrial
 - Desarrollo con IA estructurada: orquestación integral de agentes
 
-## ¿Querés hablar?
+## ¿Quieres hablar?
 
 📧 oscar.reyes@est.ulsa.edu.ni
