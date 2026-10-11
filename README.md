@@ -10,7 +10,7 @@ bien construidas y escalables.
 
 [![Lenguajes](https://skillicons.dev/icons?i=python,go)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=docker,github,linux,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,github,linux,postgres)](https://skillicons.dev)
 
 
 ## Proyectos
