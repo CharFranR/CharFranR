@@ -24,7 +24,7 @@ en contenedores Docker
 
 ## Algunas cosas de las que estoy orgulloso
 
-- Participación en Hackaton Nicaragua, 2025 y 2026
+- Participación en Hackathon Nicaragua, 2025 y 2026, desarrollando para solucionar problemáticas reales
 
 ## ¿Quieres hablar?
 
