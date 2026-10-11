@@ -18,9 +18,9 @@ bien construídas y escalables.
 **[Bombolab](https://github.com/CharFranR/bombolab)** — Gemelo digital para robots 5 DOF
 
 **[Docker-Lens](https://github.com/CharFranR/Docker-Lens)** — Herramienta de gestión de bases de datos
-en contenedores Docker.
+en contenedores Docker
 
-**[Milpa] (https://github.com/CharFranR/Milpa)** - Plataforma digital de mercado agropecuario
+**[Milpa](https://github.com/CharFranR/Milpa)** - Plataforma digital de mercado agropecuario
 
 ## Algunas cosas de las que estoy orgulloso
 
