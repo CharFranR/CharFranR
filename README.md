@@ -1,25 +1,30 @@
-# ¡Hola! Soy Oscar
+# Oscar Reyes
 
-Estudiante de Ingeniería en Cibernética Electrónica. Construyo backend, me estoy metiendo
-en el mundo de las librerías y el bajo nivel, con algo de Rust en el camino.
+Estudiante de Ingeniería en Cibernética Electrónica. Construyendo servidores y todo aquello
+que no se ve pero existe y funciona.
 
-Mi día a día es Django y DRF para resolver problemas reales, y PLCs cuando el mundo físico
-me necesita. Recientemente interesado en integrar IA al flujo de desarrollo
-con orquestación integral de agentes.
+Trabajo con metodologías ágiles y arquitecturas limpias para llegar a soluciones satisfactorias,
+bien construídas y escalables.
+
+## Stack tecnológico
+
+[![Lenguajes](https://skillicons.dev/icons?i=python,go)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=docker,github,linux,)](https://skillicons.dev)
+
 
 ## Proyectos
 
-**[Biogestor](https://github.com/CharFranR/Biogestor)** — Plataforma de monitoreo de biodigestores
-para el CIDTEA. Django, PostgreSQL, Redis, MQTT, Docker.
+**[Bombolab](https://github.com/CharFranR/bombolab)** — Gemelo digital para robots 5 DOF
 
 **[Docker-Lens](https://github.com/CharFranR/Docker-Lens)** — Herramienta de gestión de bases de datos
 en contenedores Docker.
 
+**[Milpa] (https://github.com/CharFranR/Milpa)** - Plataforma digital de mercado agropecuario
+
 ## Algunas cosas de las que estoy orgulloso
 
-- Hackatón Nicaragua 2025 + Rally Latinoamericano de Innovación 2025
-- PLC Siemens S7-1200 e instrumentación industrial
-- Desarrollo con IA estructurada: orquestación integral de agentes
+- Participación en Hackaton Nicaragua, 2025 y 2026
 
 ## ¿Quieres hablar?
 
