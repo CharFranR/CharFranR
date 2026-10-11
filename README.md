@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Cibernética Electrónica. Construyendo servidores 
 que no se ve pero existe y funciona.
 
 Trabajo con metodologías ágiles y arquitecturas limpias para llegar a soluciones satisfactorias,
-bien construídas y escalables.
+bien construidas y escalables.
 
 ## Stack tecnológico
 
